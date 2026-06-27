@@ -89,4 +89,5 @@ I like software that is:
 ## Let's build something cool.
 
 - GitHub: https://github.com/saurabhpatels
-- LinkedIn: *(your profile)*
+- LinkedIn: https://www.linkedin.com/in/saurabhpatel123/
+- Portfolio: https://saurabhpatel.work
